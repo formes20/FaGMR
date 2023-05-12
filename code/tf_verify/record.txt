@@ -1,0 +1,666 @@
+ 5x100 0.015 0.026 FA para all
+
+ sum of args is 5749, sum of time is 32359.385295152664
+ sum of groups time is 83.8001971244812, sum of cons time is 2247.2992658615112, sum of refine time is 29549.226979494095
+ analysis precision is 974/979
+
+ sum of args is 15658, sum of time is 39384.199244737625
+ sum of groups time is 327.46467638015747, sum of cons time is 3716.0280072689056, sum of refine time is 34850.07335853577
+ analysis precision is 970/979
+
+ sum of args is 10835, sum of time is 38067.64698386192
+ sum of groups time is 0.366898775100708, sum of cons time is 4983.4782819747925, sum of refine time is 32596.12753558159
+ analysis precision is 974/979
+
+ sum of args is 44547, sum of time is 45975.539814949036
+ sum of groups time is 0.4282989501953125, sum of cons time is 6435.320821285248, sum of refine time is 39028.23074579239
+ analysis precision is 970/979
+
+ sum of args is 10822, sum of time is 42979.51250958443
+ sum of groups time is 0.36094069480895996, sum of cons time is 7675.03066945076, sum of refine time is 34813.70830965042
+ analysis precision is 974/979
+
+ sum of args is 44556, sum of time is 50736.99406051636
+ sum of groups time is 0.4201326370239258, sum of cons time is 9039.297157526016, sum of refine time is 41180.71399760246
+ analysis precision is 970/979
+
+ 5x100 0.015 0.026 FA
+
+ sum of args is 8546, sum of time is 32811.79580330849
+ sum of groups time is 132.59627866744995, sum of cons time is 2195.559285879135, sum of refine time is 30010.44702720642
+ analysis precision is 974/979
+
+ sum of args is 25035, sum of time is 40745.23896455765
+ sum of groups time is 572.1131887435913, sum of cons time is 3851.4982104301453, sum of refine time is 35833.055909872055
+ analysis precision is 970/979
+ ###############################################################################################################
+
+ sum of args is 44505, sum of time is 39233.312173843384
+ sum of groups time is 170.0519404411316, sum of cons time is 2668.4695796966553, sum of refine time is 35892.50026679039
+ analysis precision is 970/979
+
+ sum of args is 36130, sum of time is 42218.650069475174
+ sum of groups time is 289.75204205513, sum of cons time is 4475.020005941391, sum of refine time is 36957.4413933754
+ analysis precision is 970/979
+ ###############################################################################################################
+ 5x100
+
+all
+[[0.125      0.1875     0.21875    0.203125   0.1953125  0.19140625
+  0.19335938 0.19433594 0.19384766 0.19360352 0.19348145 0.19342041
+  0.19338989]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.15820312 0.15722656 0.15771484 0.1574707  0.15734863 0.1572876
+  0.15731812]
+ [0.125      0.1875     0.15625    0.171875   0.1796875  0.18359375
+  0.18554688 0.18457031 0.18505859 0.18530273 0.1854248  0.18536377
+  0.18533325]
+ [0.125      0.1875     0.21875    0.203125   0.1953125  0.19140625
+  0.18945312 0.19042969 0.18994141 0.19018555 0.19030762 0.19024658
+  0.1902771 ]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.16210938 0.16308594 0.16357422 0.16333008 0.16320801 0.16326904
+  0.16329956]
+ [0.125      0.1875     0.21875    0.234375   0.2265625  0.22265625
+  0.22070312 0.22167969 0.22119141 0.22094727 0.2208252  0.22088623
+  0.22091675]
+ [0.125      0.0625     0.09375    0.109375   0.1171875  0.12109375
+  0.12304688 0.12402344 0.12353516 0.1237793  0.12365723 0.12359619
+  0.12356567]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.15820312 0.15722656 0.15771484 0.1574707  0.15734863 0.15740967
+  0.15744019]
+ [0.125      0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.125      0.1875     0.15625    0.140625   0.1484375  0.14453125
+  0.14648438 0.14550781 0.14501953 0.14526367 0.14538574 0.14544678
+  0.14541626]]
+
+  [507, 530, 543, 550, 551, 553, 565, 571, 578, 591]
+
+  [[0.125      0.0625     0.09375    0.109375   0.1015625  0.09765625
+  0.09960938 0.10058594 0.10009766 0.09985352 0.09973145 0.09979248
+  0.099823  ]
+ [0.125      0.0625     0.09375    0.109375   0.1015625  0.09765625
+  0.09960938 0.09863281 0.09814453 0.09838867 0.0982666  0.09832764
+  0.09835815]
+ [0.125      0.0625     0.03125    0.046875   0.0390625  0.03515625
+  0.03320312 0.03222656 0.03271484 0.0324707  0.03234863 0.0322876
+  0.03225708]
+ [0.125      0.0625     0.09375    0.078125   0.0859375  0.08984375
+  0.09179688 0.09082031 0.09033203 0.09008789 0.08996582 0.08990479
+  0.0899353 ]
+ [0.125      0.0625     0.09375    0.109375   0.1015625  0.09765625
+  0.09570312 0.09472656 0.09521484 0.0949707  0.09509277 0.09503174
+  0.09500122]
+ [0.125      0.0625     0.09375    0.078125   0.0859375  0.08203125
+  0.08398438 0.08300781 0.08349609 0.08325195 0.08312988 0.08319092
+  0.0831604 ]
+ [0.125      0.0625     0.03125    0.046875   0.0546875  0.05078125
+  0.04882812 0.04980469 0.04931641 0.04956055 0.04943848 0.04949951
+  0.04953003]
+ [0.125      0.0625     0.09375    0.078125   0.0703125  0.07421875
+  0.07617188 0.07519531 0.07470703 0.07446289 0.07434082 0.07427979
+  0.0743103 ]
+ [0.125      0.0625     0.09375    0.078125   0.0703125  0.06640625
+  0.06445312 0.06542969 0.06494141 0.06469727 0.06481934 0.0647583
+  0.06478882]
+ [0.125      0.0625     0.09375    0.078125   0.0703125  0.06640625
+  0.06835938 0.06933594 0.06884766 0.0690918  0.06896973 0.06903076
+  0.06900024]]
+The total time is 7047.766576528549
+analysis precision 47 / 120
+
+[[0.125      0.1875     0.21875    0.203125   0.2109375  0.20703125
+  0.20898438 0.20800781 0.20849609 0.20874023 0.2088623  0.20880127
+  0.20877075]]
+The total time is 4309.113425731659
+analysis precision 7 / 12
+
+ ###############################################################################################################
+FA
+ [[0.125      0.1875     0.21875    0.203125   0.1953125  0.19140625
+  0.19335938 0.19433594 0.19384766 0.19360352 0.19348145 0.19342041
+  0.19338989]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.15820312 0.15722656 0.15771484 0.1574707  0.15734863 0.1572876
+  0.15731812]
+ [0.125      0.1875     0.15625    0.171875   0.1796875  0.18359375
+  0.18554688 0.18457031 0.18505859 0.18530273 0.18518066 0.18511963
+  0.18508911]
+ [0.125      0.1875     0.21875    0.203125   0.1953125  0.19140625
+  0.18945312 0.19042969 0.18994141 0.19018555 0.19030762 0.19024658
+  0.1902771 ]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.16210938 0.16308594 0.16357422 0.16333008 0.16320801 0.16326904
+  0.16329956]
+ [0.125      0.1875     0.21875    0.234375   0.2265625  0.22265625
+  0.22070312 0.22167969 0.22119141 0.22094727 0.2208252  0.22088623
+  0.22091675]
+ [0.125      0.0625     0.09375    0.109375   0.1171875  0.12109375
+  0.12304688 0.12402344 0.12353516 0.1237793  0.12365723 0.12359619
+  0.12356567]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.15820312 0.15722656 0.15771484 0.1574707  0.15734863 0.1572876
+  0.15731812]
+ [0.125      0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.        ]
+ [0.125      0.1875     0.15625    0.140625   0.1484375  0.14453125
+  0.14648438 0.14550781 0.14501953 0.14526367 0.14538574 0.14532471
+  0.14535522]]
+
+  [507, 530, 543, 550, 551, 553, 565, 571, 578, 591]
+
+  [[0.25       0.125      0.0625     0.09375    0.109375   0.1015625
+  0.09765625 0.09960938 0.10058594 0.10009766 0.09985352 0.09997559
+  0.09991455 0.09994507]
+ [0.25       0.125      0.0625     0.09375    0.109375   0.1015625
+  0.09765625 0.09960938 0.09863281 0.09814453 0.09838867 0.09851074
+  0.09844971 0.09841919]
+ [0.25       0.125      0.0625     0.03125    0.046875   0.0390625
+  0.03515625 0.03320312 0.03222656 0.03271484 0.03295898 0.03283691
+  0.03289795 0.03286743]
+ [0.25       0.125      0.0625     0.09375    0.078125   0.0859375
+  0.08984375 0.09179688 0.09082031 0.09033203 0.09008789 0.08996582
+  0.08990479 0.0899353 ]
+ [0.25       0.125      0.0625     0.09375    0.109375   0.1015625
+  0.09765625 0.09570312 0.09667969 0.09619141 0.09594727 0.0958252
+  0.09576416 0.09573364]
+ [0.25       0.125      0.0625     0.09375    0.078125   0.0859375
+  0.08203125 0.08398438 0.08496094 0.08447266 0.08422852 0.08410645
+  0.08416748 0.08413696]
+ [0.25       0.125      0.0625     0.03125    0.046875   0.0546875
+  0.05078125 0.04882812 0.04980469 0.04931641 0.04956055 0.04943848
+  0.04949951 0.04946899]
+ [0.25       0.125      0.0625     0.09375    0.078125   0.0703125
+  0.07421875 0.07226562 0.07324219 0.07373047 0.07397461 0.07409668
+  0.07415771 0.0741272 ]
+ [0.25       0.125      0.0625     0.09375    0.078125   0.0703125
+  0.06640625 0.06445312 0.06542969 0.06494141 0.06518555 0.06506348
+  0.06500244 0.06503296]
+ [0.25       0.125      0.0625     0.09375    0.078125   0.0703125
+  0.06640625 0.06835938 0.06933594 0.06884766 0.0690918  0.06921387
+  0.0692749  0.06924438]]
+The total time is 14767.182760238647
+analysis precision 50 / 130
+
+[[0.125      0.1875     0.21875    0.203125   0.2109375  0.20703125
+  0.20898438 0.20800781 0.20849609 0.20874023 0.2088623  0.20892334
+  0.20895386]]
+The total time is 3987.4492700099945
+analysis precision 9 / 12
+
+ ###############################################################################################################
+para
+[[0.125      0.1875     0.21875    0.203125   0.1953125  0.19140625
+  0.19335938 0.19433594 0.19384766 0.19360352 0.19348145 0.19342041
+  0.19338989]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.15820312 0.15722656 0.15771484 0.1574707  0.15734863 0.1572876
+  0.15731812]
+ [0.125      0.1875     0.15625    0.171875   0.1796875  0.18359375
+  0.18554688 0.18457031 0.18505859 0.18530273 0.18518066 0.18511963
+  0.18508911]
+ [0.125      0.1875     0.21875    0.203125   0.1953125  0.19140625
+  0.18945312 0.19042969 0.18994141 0.19018555 0.19006348 0.19012451
+  0.19015503]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.16210938 0.16308594 0.16357422 0.16333008 0.16320801 0.16326904
+  0.16329956]
+ [0.125      0.1875     0.21875    0.234375   0.2265625  0.22265625
+  0.22070312 0.22167969 0.22119141 0.22094727 0.2208252  0.22088623
+  0.22091675]
+ [0.125      0.0625     0.09375    0.109375   0.1171875  0.12109375
+  0.12304688 0.12402344 0.12353516 0.1237793  0.12365723 0.12359619
+  0.12356567]
+ [0.125      0.1875     0.15625    0.171875   0.1640625  0.16015625
+  0.15820312 0.15722656 0.15673828 0.15649414 0.15661621 0.15667725
+  0.15670776]
+ [0.125      0.1875     0.15625    0.140625   0.1484375  0.14453125
+  0.14648438 0.14550781 0.14501953 0.14526367 0.1451416  0.14508057
+  0.14511108]
+ [0.125      0.1875     0.21875    0.203125   0.2109375  0.20703125
+  0.20898438 0.20800781 0.20849609 0.20874023 0.2088623  0.20880127
+  0.20877075]]
+
+  [[0.125      0.1875     0.21875    0.203125   0.2109375  0.20703125
+  0.20898438 0.20800781 0.20849609 0.20874023 0.2088623  0.20880127
+  0.20877075]]
+The total time is 4284.848752260208
+analysis precision 7 / 12
+
+
+  [507, 530, 543, 550, 551, 553, 565, 571, 578, 591]
+
+  [[0.125      0.0625     0.09375    0.109375   0.1015625  0.09765625
+  0.09960938 0.10058594 0.10009766 0.09985352 0.09973145 0.09979248
+  0.099823  ]
+ [0.125      0.0625     0.09375    0.109375   0.1015625  0.09765625
+  0.09960938 0.09863281 0.09814453 0.09838867 0.0982666  0.09832764
+  0.09835815]
+ [0.125      0.0625     0.03125    0.046875   0.0390625  0.03515625
+  0.03320312 0.03222656 0.03271484 0.0324707  0.03234863 0.0322876
+  0.03225708]
+ [0.125      0.0625     0.09375    0.078125   0.0859375  0.08984375
+  0.09179688 0.09082031 0.09033203 0.09008789 0.08996582 0.08990479
+  0.0899353 ]
+ [0.125      0.0625     0.09375    0.109375   0.1015625  0.09765625
+  0.09570312 0.09472656 0.09521484 0.0949707  0.09509277 0.09503174
+  0.09500122]
+ [0.125      0.0625     0.09375    0.078125   0.0859375  0.08203125
+  0.08398438 0.08300781 0.08349609 0.08325195 0.08312988 0.08319092
+  0.0831604 ]
+ [0.125      0.0625     0.03125    0.046875   0.0546875  0.05078125
+  0.04882812 0.04980469 0.04931641 0.04956055 0.04943848 0.04949951
+  0.04953003]
+ [0.125      0.0625     0.09375    0.078125   0.0703125  0.07421875
+  0.07617188 0.07519531 0.07470703 0.07446289 0.07434082 0.07427979
+  0.0743103 ]
+ [0.125      0.0625     0.09375    0.078125   0.0703125  0.06640625
+  0.06445312 0.06542969 0.06494141 0.06469727 0.06481934 0.0647583
+  0.06478882]
+ [0.125      0.0625     0.09375    0.078125   0.0703125  0.06640625
+  0.06835938 0.06933594 0.06884766 0.0690918  0.06896973 0.06903076
+  0.06900024]]
+The total time is 7030.36062169075
+analysis precision 47 / 120
+
+###############################################################################################################
+cifar10 6x100 1/255 2/255:undone for all of strategies
+
+ sum of args is 29550, sum of time is 8512.977274179459
+ sum of groups time is 3129.289509534836, sum of cons time is 1146.3834369182587, sum of refine time is 4008.9942371845245
+ analysis precision is 101/137
+
+ sum of args is 214605, sum of time is 10623.39716386795
+ sum of groups time is 15.653831958770752, sum of cons time is 4498.788118362427, sum of refine time is 5461.638034105301
+ analysis precision is 101/137
+
+ sum of args is 214605, sum of time is 12123.314856767654
+ sum of groups time is 0.3957970142364502, sum of cons time is 5312.505885601044, sum of refine time is 6163.328054904938
+ analysis precision is 101/137
+ ###############################################################################################################
+ cifar10 4x100 1/255 2/255 4/255
+
+ sum of args is 40874, sum of time is 3625.3091254234314
+ sum of groups time is 0.2363719940185547, sum of cons time is 957.6056537628174, sum of refine time is 2471.66321349144
+ analysis precision is 102/126
+
+ sum of args is 606388, sum of time is 13891.5108897686
+ sum of groups time is 43.64534091949463, sum of cons time is 7973.639657735825, sum of refine time is 4126.376368999481
+ analysis precision is 68/126
+
+ sum of args is 40874, sum of time is 3448.112148284912
+ sum of groups time is 0.22708821296691895, sum of cons time is 859.6845364570618, sum of refine time is 2391.6627867221832
+ analysis precision is 102/126
+
+ sum of args is 606388, sum of time is 13468.961190223694
+ sum of groups time is 43.36685848236084, sum of cons time is 7721.574692726135, sum of refine time is 3955.9439737796783
+ analysis precision is 68/126
+
+
+  ###############################################################################################################
+6x200 mnist 0.015 FA
+
+ sum of args is 1428743, sum of time is 44123.413085461
+ sum of groups time is 796.9507117271423, sum of cons time is 20264.75583100319, sum of refine time is 21061.70654273033
+ analysis precision is 959/972
+
+ para
+ sum of args is 1527431, sum of time is 66699.6827776432
+ sum of groups time is 12.137267589569092, sum of cons time is 21393.739459514618, sum of refine time is 43276.49390077591
+ analysis precision is 958/972
+
+ 6x200 mnist 0.015 all
+
+ sum of args is 1486002, sum of time is 103700.6056997776
+ sum of groups time is 12.725418090820312, sum of cons time is 41878.70432329178, sum of refine time is 59716.191724061966
+ analysis precision is 959/972
+  ###############################################################################################################
+convSmallRELU__DiffAI.onnx mnist0.015 FA  para  all:G
+ sum of args is 1219698, sum of time is 8082.566991567612
+ sum of groups time is 6.334923982620239, sum of cons time is 3790.589877843857, sum of refine time is 3050.9592616558075
+ analysis precision is 454/471
+
+ sum of args is 2439396, sum of time is 8128.625636339188
+ sum of groups time is 6.4054274559021, sum of cons time is 3829.0573999881744, sum of refine time is 3061.3509187698364
+ analysis precision is 454/471
+  ###############################################################################################################
+covbig mnist0.03 FA 
+
+ sum of args is 131644, sum of time is 81752.98376965523
+ sum of groups time is 26.383514404296875, sum of cons time is 5543.257709264755, sum of refine time is 47933.04007220268
+ analysis precision is 926/929
+ 
+ ###############################################################################################################
+convsmall cifar10 4/255
+
+ sum of args is 550982, sum of time is 9077.131781578064
+ sum of groups time is 9.583616733551025, sum of cons time is 4478.544299125671, sum of refine time is 3308.1726093292236
+ analysis precision is 452/471
+
+ sum of args is 1086923, sum of time is 16302.281702041626
+ sum of groups time is 2.2825586795806885, sum of cons time is 9890.655641078949, sum of refine time is 5118.650947332382
+ analysis precision is 452/471
+
+ sum of args is 1392592, sum of time is 23068.945992708206
+ sum of groups time is 2.294637441635132, sum of cons time is 14957.858714818954, sum of refine time is 6813.466822862625
+ analysis precision is 452/471
+  ###############################################################################################################
+ 9x100 0.015 mnist: 'FA'
+ sum of args is 177975, sum of time is 43335.49329805374
+ sum of groups time is 2886.831749200821, sum of cons time is 8000.646951675415, sum of refine time is 31649.018283843994
+ analysis precision is 934/947
+
+ 9x100  0.015 para
+ sum of args is 362454, sum of time is 41718.059651833
+ sum of groups time is 13.316916943, sum of cons time is 7950.092363834, sum of refine time is 32809.971933126
+ analysis precision is 934/947
+
+9x100 mnist 0.015 all G
+ ###############################################################################################################
+ 9x200 mnist 0.01 FA
+
+ sum of args is 13243, sum of time is 8910.69801902771
+ sum of groups time is 434.7760558128357, sum of cons time is 673.2793583869934, sum of refine time is 7571.810463666916
+ analysis precision is 194/194
+
+ sum of args is 16345, sum of time is 9974.637090444565
+ sum of groups time is 892.8076908588409, sum of cons time is 1036.9401495456696, sum of refine time is 7811.586574792862
+ analysis precision is 191/192
+
+ sum of args is 17458, sum of time is 10191.588802814484
+ sum of groups time is 851.08806681633, sum of cons time is 1283.7878510951996, sum of refine time is 7834.292326211929
+ analysis precision is 186/186
+
+ sum of args is 12689, sum of time is 13442.952854156494
+ sum of groups time is 2673.6581270694733, sum of cons time is 2015.5826971530914, sum of refine time is 8527.993321418762
+ analysis precision is 186/188
+
+ sum of args is 12812, sum of time is 11929.307679891586
+ sum of groups time is 567.571239233017, sum of cons time is 2271.946194410324, sum of refine time is 8863.163854122162
+ analysis precision is 188/190
+##############################################################################################################
+ 9x200 mnist 0.01 FA
+ sum of args is 32995, sum of time is 8681.63968205452
+ sum of groups time is 0.454775333404541, sum of cons time is 741.5532116889954, sum of refine time is 7697.305403470993
+ analysis precision is 194/194
+
+ sum of args is 91098, sum of time is 9911.052701711655
+ sum of groups time is 4.230012893676758, sum of cons time is 1442.5385913848877, sum of refine time is 8140.201236486435
+ analysis precision is 191/192
+
+ sum of args is 84078, sum of time is 10440.852797269821
+ sum of groups time is 0.31229519844055176, sum of cons time is 1766.7390303611755, sum of refine time is 8402.853397607803
+ analysis precision is 186/186
+
+ sum of args is 165902, sum of time is 12573.581926584244
+ sum of groups time is 17.757917642593384, sum of cons time is 3003.491984605789, sum of refine time is 9080.05364394188
+ analysis precision is 186/188
+
+ sum of args is 54387, sum of time is 11193.470828294754
+ sum of groups time is 0.38533568382263184, sum of cons time is 2096.5265860557556, sum of refine time is 8837.484988927841
+ analysis precision is 188/190
+
+ summary:
+ sum of args is 179115, sum of time is 103808.45469260216
+ sum of groups time is 35485.625522613525, sum of cons time is 16489.051649332047, sum of refine time is 50595.74598097801
+ analysis precision is 940/949
+ ###############################################################################################################
+ 9x200 mnist 0.014 FA 
+ sum of args is 30005, sum of time is 10710.544023513794
+ sum of groups time is 1447.0605373382568, sum of cons time is 897.4939994812012, sum of refine time is 8124.142144441605
+ analysis precision is 194/194
+
+ sum of args is 43614, sum of time is 16600.51003932953
+ sum of groups time is 4949.528893232346, sum of cons time is 2186.805643796921, sum of refine time is 9191.624527454376
+ analysis precision is 190/192
+
+ sum of args is 43316, sum of time is 18166.762456417084
+ sum of groups time is 5027.751285791397, sum of cons time is 3095.2166571617126, sum of refine time is 9803.78564786911
+ analysis precision is 185/186
+
+ sum of args is 28698, sum of time is 36727.308290958405
+ sum of groups time is 20487.545485019684, sum of cons time is 4712.773332357407, sum of refine time is 11288.027083873749
+ analysis precision is 186/188
+
+ sum of args is 33482, sum of time is 21603.329882383347
+ sum of groups time is 3573.739321231842, sum of cons time is 5596.762016534805, sum of refine time is 12188.166577339172
+ analysis precision is 186/190
+
+##################################################################################################
+mnist 5x100 0.05 para FA all
+ sum of args is 268828, sum of time is 6678.1292135715485
+ sum of groups time is 1.2737388610839844, sum of cons time is 1168.595328092575, sum of refine time is 5274.369229078293
+ analysis precision is 92/98
+
+ sum of args is 318032, sum of time is 8149.920438289642
+ sum of groups time is 0.3265957832336426, sum of cons time is 1913.134129524231, sum of refine time is 5967.414947509766
+ analysis precision is 92/99
+
+ sum of args is 240000, sum of time is 8134.8272042274475
+ sum of groups time is 0.35277390480041504, sum of cons time is 2044.624300956726, sum of refine time is 5882.7703313827515
+ analysis precision is 95/97
+
+ sum of args is 285831, sum of time is 9278.625862121582
+ sum of groups time is 0.2951943874359131, sum of cons time is 2610.8801476955414, sum of refine time is 6410.724309921265
+ analysis precision is 87/97
+
+ sum of args is 308577, sum of time is 10310.51997256279
+ sum of groups time is 0.3176734447479248, sum of cons time is 3165.149338245392, sum of refine time is 6879.428579092026
+ analysis precision is 86/98
+
+ sum of args is 323451, sum of time is 11400.899649858475
+ sum of groups time is 0.4399266242980957, sum of cons time is 3682.929087162018, sum of refine time is 7441.27446603775
+ analysis precision is 89/99
+################################################################################################
+mnist 5x100 0.0325 para FA all
+
+ sum of args is 17105, sum of time is 7967.330223083496
+ sum of groups time is 0.10082554817199707, sum of cons time is 400.87340354919434, sum of refine time is 7464.026322126389
+ analysis precision is 195/197
+
+ sum of args is 15242, sum of time is 8045.767386674881
+ sum of groups time is 0.10052704811096191, sum of cons time is 493.73124837875366, sum of refine time is 7452.452696323395
+ analysis precision is 193/194
+
+ sum of args is 20786, sum of time is 8380.153298854828
+ sum of groups time is 0.11195087432861328, sum of cons time is 636.2885887622833, sum of refine time is 7638.425312280655
+ analysis precision is 194/197
+
+ sum of args is 16754, sum of time is 8504.956463336945
+ sum of groups time is 0.0964512825012207, sum of cons time is 733.1036646366119, sum of refine time is 7669.991095066071
+ analysis precision is 193/195
+
+ sum of args is 16586, sum of time is 8743.478630781174
+ sum of groups time is 0.09611678123474121, sum of cons time is 839.0540463924408, sum of refine time is 7801.331166982651
+ analysis precision is 192/196
+################################################################################################
+FA all
+
+ sum of args is 8705, sum of time is 7959.9551022052765
+ sum of groups time is 205.02517557144165, sum of cons time is 408.8108491897583, sum of refine time is 7249.016417980194
+ analysis precision is 195/197
+
+ sum of args is 7543, sum of time is 7971.704225063324
+ sum of groups time is 186.41506600379944, sum of cons time is 509.7259635925293, sum of refine time is 7180.71856713295
+ analysis precision is 193/194
+
+ sum of args is 9077, sum of time is 8369.870196819305
+ sum of groups time is 244.04838132858276, sum of cons time is 639.264493227005, sum of refine time is 7388.884835481644
+ analysis precision is 195/197
+
+ sum of args is 7622, sum of time is 8441.87458896637
+ sum of groups time is 198.60667324066162, sum of cons time is 728.8820962905884, sum of refine time is 7418.996933698654
+ analysis precision is 193/195
+
+ sum of args is 8476, sum of time is 8750.653888463974
+ sum of groups time is 197.6630837917328, sum of cons time is 852.7556455135345, sum of refine time is 7602.283162593842
+ analysis precision is 192/196
+################################################################################################
+ sum of args is 17099, sum of time is 9028.628754377365
+ sum of groups time is 0.0988931655883789, sum of cons time is 977.4505507946014, sum of refine time is 7946.794139862061
+ analysis precision is 195/197
+
+ sum of args is 15238, sum of time is 9062.067628622055
+ sum of groups time is 0.09914994239807129, sum of cons time is 1048.300518989563, sum of refine time is 7912.342101812363
+ analysis precision is 193/194
+
+ sum of args is 20789, sum of time is 9373.773334026337
+ sum of groups time is 0.10932230949401855, sum of cons time is 1173.7437007427216, sum of refine time is 8094.007969379425
+ analysis precision is 195/197
+
+ sum of args is 16754, sum of time is 9447.395315170288
+ sum of groups time is 0.09365034103393555, sum of cons time is 1249.563447713852, sum of refine time is 8095.83679485321
+ analysis precision is 193/195
+
+ sum of args is 16576, sum of time is 9700.572215080261
+ sum of groups time is 0.09392356872558594, sum of cons time is 1357.9931066036224, sum of refine time is 8239.34304356575
+ analysis precision is 192/196
+################################################################################################
+restnet2b 1/255 para
+ sum of args is 571310, sum of time is 33111.7099237442
+ sum of groups time is 3.4625985622406006, sum of cons time is 28223.115320920944, sum of refine time is 1364.571625471115
+ analysis precision is 81/82
+
+ sum of args is 559049, sum of time is 32502.097850561142
+ sum of groups time is 2.6708714962005615, sum of cons time is 27577.94414782524, sum of refine time is 1453.5285115242004
+ analysis precision is 77/79
+
+###############################################################################################
+convbig 1/255 para FA all
+
+
+
+ sum of args is 174980, sum of time is 4378.162686347961
+ sum of groups time is 1.5505688190460205, sum of cons time is 1418.5706231594086, sum of refine time is 2056.733080148697
+ analysis precision is 462/471
+
+ sum of args is 174980, sum of time is 6547.391963005066
+ sum of groups time is 1.3749332427978516, sum of cons time is 3040.556295156479, sum of refine time is 2596.5038685798645
+ analysis precision is 462/471
+
+#########################################################################################################
+FA mnist 5x100 0.026
+
+ sum of args is 48882, sum of time is 39545.528156518936
+ sum of groups time is 350.87232875823975, sum of cons time is 2862.627769947052, sum of refine time is 35839.3331720829
+ analysis precision is 970/979
+#########################################################################################################
+ mnist 6x200 FA 0.015
+
+ sum of args is 852473, sum of time is 55988.346516132355
+ sum of groups time is 10615.692043066025, sum of cons time is 9427.769259691238, sum of refine time is 34516.599887132645
+ analysis precision is 959/972
+
+
+#########################################################################################################
+mnist convexBig 0.03
+
+ sum of args is 116607, sum of time is 90055.13364839554
+ sum of groups time is 490.86753487586975, sum of cons time is 10289.001712560654, sum of refine time is 50532.647439956665
+ analysis precision is 926/929
+
+#########################################################################################################
+ cifarsmall cifar10 4/255 FA
+ sum of args is 669939, sum of time is 11414.80657029152
+ sum of groups time is 2700.9718809127808, sum of cons time is 4486.433173894882, sum of refine time is 3177.486159324646
+ analysis precision is 452/471
+#########################################################################################################
+resNet2b FA 1/255
+ sum of args is 78765, sum of time is 15157.654783248901
+ sum of groups time is 6387.818477153778, sum of cons time is 4497.792922973633, sum of refine time is 951.4063036441803
+ analysis precision is 81/82
+
+ sum of args is 76391, sum of time is 14937.918429851532
+ sum of groups time is 6036.291789770126, sum of cons time is 4652.198446989059, sum of refine time is 961.0487809181213
+ analysis precision is 77/79
+#########################################################################################################
+6x500 mnist tanh 0.005 FA
+
+ sum of args is 18345, sum of time is 19253.106561899185
+ sum of groups time is 1750.6180086135864, sum of cons time is 1601.6363985538483, sum of refine time is 14312.805006027222
+ analysis precision is 98/99
+
+ para G
+#########################################################################################################
+ConvMed mnist tanh 0.005 FA para
+
+ sum of args is 43849, sum of time is 18762.203224420547
+ sum of groups time is 4673.111816883087, sum of cons time is 2215.7996323108673, sum of refine time is 11128.63243985176
+ analysis precision is 98/98
+
+ sum of args is 120565, sum of time is 21646.81903243065
+ sum of groups time is 1.1296732425689697, sum of cons time is 5273.772756099701, sum of refine time is 15572.580425739288
+ analysis precision is 98/98
+
+#########################################################################################################
+6x500 mnist sigmoid 0.012 FA
+
+ sum of args is 365024, sum of time is 106125.43495845795
+ sum of groups time is 10987.97308254242, sum of cons time is 8733.563654899597, sum of refine time is 83959.40248703957
+ analysis precision is 95/95
+#########################################################################################################
+
+ sum of args is 181210, sum of time is 6504.515510082245
+ sum of groups time is 1.4048027992248535, sum of cons time is 3026.142402648926, sum of refine time is 2582.046032190323
+ analysis precision is 462/471
+
+ sum of args is 181210, sum of time is 6504.515510082245
+ sum of groups time is 1.4048027992248535, sum of cons time is 3026.142402648926, sum of refine time is 2582.046032190323
+ analysis precision is 462/471
+
+ sum of args is 108071, sum of time is 6467.488648891449
+ sum of groups time is 455.01968002319336, sum of cons time is 2097.3210666179657, sum of refine time is 2283.6034495830536
+ analysis precision is 462/471
+#########################################################################################################
+
+ConvMed mnist 0.014 FA para sigmoid
+
+ sum of args is 566531, sum of time is 8630.531348705292
+ sum of groups time is 36.04309344291687, sum of cons time is 219.8897614479065, sum of refine time is 7512.342228651047
+ analysis precision is 99/99
+
+ sum of args is 584180, sum of time is 25008.12705898285
+ sum of groups time is 958.960824251175, sum of cons time is 1056.3195254802704, sum of refine time is 21858.865052223206
+ analysis precision is 99/99
+
+#########################################################################################################
+
+ sum of args is 365024, sum of time is 54130.11888051033
+ sum of groups time is 8115.8140296936035, sum of cons time is 6559.822915315628, sum of refine time is 37805.7534661293
+ analysis precision is 95/95
+
+ sum of args is 585294, sum of time is 60881.569155454636
+ sum of groups time is 21.865119457244873, sum of cons time is 23604.83706021309, sum of refine time is 35405.31944990158
+ analysis precision is 95/95
+
+#########################################################################################################
+para 6x200 0.015
+ sum of args is 106236, sum of time is 33385.68102693558
+ sum of groups time is 0.9906458854675293, sum of cons time is 3907.9599232673645, sum of refine time is 28674.601673603058
+ analysis precision is 959/972
+#########################################################################################################
+5x100 0.026
+ sum of args is 23440, sum of time is 36189.617694854736
+ sum of groups time is 0.4114720821380615, sum of cons time is 2316.5140087604523, sum of refine time is 33396.52099561691
+ analysis precision is 970/979
+#########################################################################################################
+convbig 0.03
+
+ sum of args is 53995, sum of time is 4152.297439575195
+ sum of groups time is 1.3893930912017822, sum of cons time is 1245.1186172962189, sum of refine time is 2014.7809691429138
+ analysis precision is 452/471
+#########################################################################################################
+resnet 1/255
+ sum of args is 65669, sum of time is 11973.891378641129
+ sum of groups time is 1.7186048030853271, sum of cons time is 3545.3980066776276, sum of refine time is 1776.7117505073547
+ analysis precision is 158/161
+ #########################################################################################################
+ FA gai
+
+ sum of args is 75554, sum of time is 0
+ sum of groups time is 0.1745281219482422, sum of cons time is 617.7459132671356, sum of refine time is 4893.037143230438
+ analysis precision is 58/120
