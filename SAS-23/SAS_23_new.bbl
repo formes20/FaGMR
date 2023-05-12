@@ -1,0 +1,203 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{ref_url3}
+Gurobi optimizer reference manual (2008), \url{http://www.gurobi.com}
+
+\bibitem{DBLP:journals/mp/AndersonHMTV20}
+Anderson, R., Huchette, J., Ma, W., Tjandraatmadja, C., Vielma, J.P.: Strong
+  mixed-integer programming formulations for trained neural networks. Math.
+  Program.  \textbf{183}(1),  3--39 (2020),
+  \url{https://doi.org/10.1007/s10107-020-01474-5}
+
+\bibitem{DBLP:journals/corr/abs-2109-00498}
+Bak, S., Liu, C., Johnson, T.T.: The second international verification of
+  neural networks competition {(VNN-COMP} 2021): Summary and results. CoRR
+  \textbf{abs/2109.00498} (2021), \url{https://arxiv.org/abs/2109.00498}
+
+\bibitem{barber2013qhull}
+Barber, C.B., Dobkin, D.P., Huhdanpaa, H.: Qhull: Quickhull algorithm for
+  computing the convex hull. Astrophysics Source Code Library pp. ascl--1304
+  (2013)
+
+\bibitem{betke1993approximating}
+Betke, U., Henk, M.: Approximating the volume of convex bodies. Discrete \&
+  Computational Geometry  \textbf{10},  15--21 (1993)
+
+\bibitem{DBLP:conf/aaai/BotoevaKKLM20}
+Botoeva, E., Kouvaros, P., Kronqvist, J., Lomuscio, A., Misener, R.: Efficient
+  verification of relu-based neural networks via dependency analysis. In: The
+  Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI} 2020, The
+  Thirty-Second Innovative Applications of Artificial Intelligence Conference,
+  {IAAI} 2020, The Tenth {AAAI} Symposium on Educational Advances in Artificial
+  Intelligence, {EAAI} 2020, New York, NY, USA, February 7-12, 2020. pp.
+  3291--3299. {AAAI} Press (2020),
+  \url{https://ojs.aaai.org/index.php/AAAI/article/view/5729}
+
+\bibitem{DBLP:journals/jmlr/BunelLTTKK20}
+Bunel, R., Lu, J., Turkaslan, I., Torr, P.H.S., Kohli, P., Kumar, M.P.: Branch
+  and bound for piecewise linear neural network verification. J. Mach. Learn.
+  Res.  \textbf{21},  42:1--42:39 (2020),
+  \url{http://jmlr.org/papers/v21/19-468.html}
+
+\bibitem{DBLP:conf/atva/Ehlers17}
+Ehlers, R.: Formal verification of piece-wise linear feed-forward neural
+  networks. In: D'Souza, D., Kumar, K.N. (eds.) Automated Technology for
+  Verification and Analysis - 15th International Symposium, {ATVA} 2017, Pune,
+  India, October 3-6, 2017, Proceedings. Lecture Notes in Computer Science,
+  vol. 10482, pp. 269--286. Springer (2017),
+  \url{https://doi.org/10.1007/978-3-319-68167-2\_19}
+
+\bibitem{elekes1986geometric}
+Elekes, G.: A geometric inequality and the complexity of computing volume.
+  Discrete \& Computational Geometry  \textbf{1},  289--292 (1986)
+
+\bibitem{gaubert2011minimal}
+Gaubert, S., Katz, R.D.: Minimal half-spaces and external representation of
+  tropical polyhedra. Journal of Algebraic Combinatorics  \textbf{33}(3),
+  325--348 (2011)
+
+\bibitem{DBLP:books/daglib/0040158}
+Goodfellow, I.J., Bengio, Y., Courville, A.C.: Deep Learning. Adaptive
+  computation and machine learning, {MIT} Press (2016),
+  \url{http://www.deeplearningbook.org/}
+
+\bibitem{DBLP:conf/cav/KatzBDJK17}
+Katz, G., Barrett, C.W., Dill, D.L., Julian, K., Kochenderfer, M.J.: Reluplex:
+  An efficient {SMT} solver for verifying deep neural networks. In: Majumdar,
+  R., Kuncak, V. (eds.) Computer Aided Verification - 29th International
+  Conference, {CAV} 2017, Heidelberg, Germany, July 24-28, 2017, Proceedings,
+  Part {I}. Lecture Notes in Computer Science, vol. 10426, pp. 97--117.
+  Springer (2017), \url{https://doi.org/10.1007/978-3-319-63387-9\_5}
+
+\bibitem{DBLP:conf/cav/KatzHIJLLSTWZDK19}
+Katz, G., Huang, D.A., Ibeling, D., Julian, K., Lazarus, C., Lim, R., Shah, P.,
+  Thakoor, S., Wu, H., Zeljic, A., Dill, D.L., Kochenderfer, M.J., Barrett,
+  C.W.: The marabou framework for verification and analysis of deep neural
+  networks. In: Dillig, I., Tasiran, S. (eds.) Computer Aided Verification -
+  31st International Conference, {CAV} 2019, New York City, NY, USA, July
+  15-18, 2019, Proceedings, Part {I}. Lecture Notes in Computer Science, vol.
+  11561, pp. 443--452. Springer (2019),
+  \url{https://doi.org/10.1007/978-3-030-25540-4\_26}
+
+\bibitem{DBLP:journals/ftopt/LiuALSBK21}
+Liu, C., Arnon, T., Lazarus, C., Strong, C.A., Barrett, C.W., Kochenderfer,
+  M.J.: Algorithms for verifying deep neural networks. Found. Trends Optim.
+  \textbf{4}(3-4),  244--404 (2021), \url{https://doi.org/10.1561/2400000035}
+
+\bibitem{mirman2018differentiable}
+Mirman, M., Gehr, T., Vechev, M.: Differentiable abstract interpretation for
+  provably robust neural networks. In: International Conference on Machine
+  Learning. pp. 3578--3586. PMLR (2018)
+
+\bibitem{DBLP:journals/corr/abs-1907-00374}
+Morgulis, N., Kreines, A., Mendelowitz, S., Weisglass, Y.: Fooling a real car
+  with adversarial traffic signs. CoRR  \textbf{abs/1907.00374} (2019),
+  \url{http://arxiv.org/abs/1907.00374}
+
+\bibitem{DBLP:journals/pacmpl/MullerMSPV22}
+M{\"{u}}ller, M.N., Makarchuk, G., Singh, G., P{\"{u}}schel, M., Vechev, M.T.:
+  {PRIMA:} general and precise neural network certification via scalable convex
+  hull approximations. Proc. {ACM} Program. Lang.  \textbf{6}({POPL}),  1--33
+  (2022), \url{https://doi.org/10.1145/3498704}
+
+\bibitem{DBLP:conf/nips/SalmanY0HZ19}
+Salman, H., Yang, G., Zhang, H., Hsieh, C., Zhang, P.: A convex relaxation
+  barrier to tight robustness verification of neural networks. In: Wallach,
+  H.M., Larochelle, H., Beygelzimer, A., d'Alch{\'{e}}{-}Buc, F., Fox, E.B.,
+  Garnett, R. (eds.) Advances in Neural Information Processing Systems 32:
+  Annual Conference on Neural Information Processing Systems 2019, NeurIPS
+  2019, December 8-14, 2019, Vancouver, BC, Canada. pp. 9832--9842 (2019)
+
+\bibitem{DBLP:conf/nips/SinghGPV19}
+Singh, G., Ganvir, R., P{\"{u}}schel, M., Vechev, M.T.: Beyond the single
+  neuron convex barrier for neural network certification. In: Wallach, H.M.,
+  Larochelle, H., Beygelzimer, A., d'Alch{\'{e}}{-}Buc, F., Fox, E.B., Garnett,
+  R. (eds.) Advances in Neural Information Processing Systems 32: Annual
+  Conference on Neural Information Processing Systems 2019, NeurIPS 2019,
+  December 8-14, 2019, Vancouver, BC, Canada. pp. 15072--15083 (2019),
+  \url{https://proceedings.neurips.cc/paper/2019/hash/0a9fdbb17feb6ccb7ec405cfb85222c4-Abstract.html}
+
+\bibitem{NEURIPS2018_f2f44698}
+Singh, G., Gehr, T., Mirman, M., P\"{u}schel, M., Vechev, M.: Fast and
+  effective robustness certification. In: Bengio, S., Wallach, H., Larochelle,
+  H., Grauman, K., Cesa-Bianchi, N., Garnett, R. (eds.) Advances in Neural
+  Information Processing Systems. vol.~31. Curran Associates, Inc. (2018),
+  \url{https://proceedings.neurips.cc/paper/2018/file/f2f446980d8e971ef3da97af089481c3-Paper.pdf}
+
+\bibitem{DBLP:journals/pacmpl/SinghGPV19}
+Singh, G., Gehr, T., P{\"{u}}schel, M., Vechev, M.T.: An abstract domain for
+  certifying neural networks. Proc. {ACM} Program. Lang.  \textbf{3}({POPL}),
+  41:1--41:30 (2019), \url{https://doi.org/10.1145/3290354}
+
+\bibitem{sommerville2020introduction}
+Sommerville, D.M.: Introduction to the Geometry of N Dimensions. Courier Dover
+  Publications (2020)
+
+\bibitem{ref_url4}
+SRI{ }Lab: {ETH} robustness analyzer for neural networks ({ERAN}) (2022),
+  \url{https://github.com/eth-sri/eran}
+
+\bibitem{DBLP:conf/nips/TjandraatmadjaA20}
+Tjandraatmadja, C., Anderson, R., Huchette, J., Ma, W., Patel, K., Vielma,
+  J.P.: The convex relaxation barrier, revisited: Tightened single-neuron
+  relaxations for neural network verification. In: Larochelle, H., Ranzato, M.,
+  Hadsell, R., Balcan, M., Lin, H. (eds.) Advances in Neural Information
+  Processing Systems 33: Annual Conference on Neural Information Processing
+  Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual (2020),
+  \url{https://proceedings.neurips.cc/paper/2020/hash/f6c2a0c4b566bc99d596e58638e342b0-Abstract.html}
+
+\bibitem{DBLP:conf/nips/WangPWYJ18}
+Wang, S., Pei, K., Whitehouse, J., Yang, J., Jana, S.: Efficient formal safety
+  analysis of neural networks. In: Bengio, S., Wallach, H.M., Larochelle, H.,
+  Grauman, K., Cesa{-}Bianchi, N., Garnett, R. (eds.) Advances in Neural
+  Information Processing Systems 31: Annual Conference on Neural Information
+  Processing Systems 2018, NeurIPS 2018, December 3-8, 2018, Montr{\'{e}}al,
+  Canada. pp. 6369--6379 (2018),
+  \url{https://proceedings.neurips.cc/paper/2018/hash/2ecd2bd94734e5dd392d8678bc64cdab-Abstract.html}
+
+\bibitem{DBLP:conf/uss/WangPWYJ18}
+Wang, S., Pei, K., Whitehouse, J., Yang, J., Jana, S.: Formal security analysis
+  of neural networks using symbolic intervals. In: Enck, W., Felt, A.P. (eds.)
+  27th {USENIX} Security Symposium, {USENIX} Security 2018, Baltimore, MD, USA,
+  August 15-17, 2018. pp. 1599--1614. {USENIX} Association (2018),
+  \url{https://www.usenix.org/conference/usenixsecurity18/presentation/wang-shiqi}
+
+\bibitem{NEURIPS2021_fac7fead}
+Wang, S., Zhang, H., Xu, K., Lin, X., Jana, S., Hsieh, C.J., Kolter, J.Z.:
+  Beta-crown: Efficient bound propagation with per-neuron split constraints for
+  neural network robustness verification. In: Ranzato, M., Beygelzimer, A.,
+  Dauphin, Y., Liang, P., Vaughan, J.W. (eds.) Advances in Neural Information
+  Processing Systems. vol.~34, pp. 29909--29921. Curran Associates, Inc.
+  (2021),
+  \url{https://proceedings.neurips.cc/paper/2021/file/fac7fead96dafceaf80c1daffeae82a4-Paper.pdf}
+
+\bibitem{DBLP:conf/iclr/XuZ0WJLH21}
+Xu, K., Zhang, H., Wang, S., Wang, Y., Jana, S., Lin, X., Hsieh, C.: Fast and
+  complete: Enabling complete neural network verification with rapid and
+  massively parallel incomplete verifiers. In: 9th International Conference on
+  Learning Representations, {ICLR} 2021, Virtual Event, Austria, May 3-7, 2021.
+  OpenReview.net (2021), \url{https://openreview.net/forum?id=nVZtXBI6LNn}
+
+\bibitem{DBLP:conf/nips/ZhangWCHD18}
+Zhang, H., Weng, T., Chen, P., Hsieh, C., Daniel, L.: Efficient neural network
+  robustness certification with general activation functions. In: Bengio, S.,
+  Wallach, H.M., Larochelle, H., Grauman, K., Cesa{-}Bianchi, N., Garnett, R.
+  (eds.) Advances in Neural Information Processing Systems 31: Annual
+  Conference on Neural Information Processing Systems 2018, NeurIPS 2018,
+  December 3-8, 2018, Montr{\'{e}}al, Canada. pp. 4944--4953 (2018)
+
+\bibitem{ZhangHML22}
+Zhang, J.M., Harman, M., Ma, L., Liu, Y.: Machine learning testing: Survey,
+  landscapes and horizons. {IEEE} Trans. Software Eng.  \textbf{48}(2),  1--36
+  (2022)
+
+\bibitem{Zheng2022}
+Zheng, Y., Shi, X., Liu, J.: Multi-path back-propagation method for neural
+  network verification (in chinese). Ruan Jian Xue Bao/Journal of Software
+  \textbf{33}(7),  2464--2481 (2022),
+  \url{http://www.jos.org.cn/1000-9825/6585.htm}
+
+\end{thebibliography}

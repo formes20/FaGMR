@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: SAS_23_new.aux
+The style file: splncs04.bst
+Database file #1: references.bib
+Warning--entry type for "ref_url3" isn't style-file defined
+--line 591 of file references.bib
+Warning--entry type for "ref_url4" isn't style-file defined
+--line 599 of file references.bib
+Warning--to sort, need author or key in ref_url3
+You've used 31 entries,
+            2850 wiz_defined-function locations,
+            820 strings with 14168 characters,
+and the built_in function-call counts, 21678 in all, are:
+= -- 1732
+> -- 861
+< -- 39
++ -- 343
+- -- 306
+* -- 1503
+:= -- 2745
+add.period$ -- 50
+call.type$ -- 31
+change.case$ -- 248
+chr.to.int$ -- 0
+cite$ -- 32
+duplicate$ -- 1841
+empty$ -- 1805
+format.name$ -- 343
+if$ -- 4683
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 411
+newline$ -- 99
+num.names$ -- 82
+pop$ -- 739
+preamble$ -- 1
+purify$ -- 191
+quote$ -- 0
+skip$ -- 558
+stack$ -- 0
+substring$ -- 1179
+swap$ -- 1124
+text.length$ -- 39
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 1
+while$ -- 168
+width$ -- 33
+write$ -- 340
+(There were 3 warnings)
